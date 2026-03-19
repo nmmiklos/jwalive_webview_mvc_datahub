@@ -99,16 +99,6 @@ A felület egy egyedi dark theme-et használ:
 
 ---
 
-## További fejlesztési ötletek
-
-* Keresés és szűrés
-* Oszlop rendezés
-* Lapozás (pagination)
-* API integráció
-* Mobil optimalizálás
-
----
-
 ## Licenc
 
 Ez a projekt szabadon felhasználható tanulási célokra.
