@@ -13,6 +13,7 @@ Egy modern, sötét témájú ASP.NET MVC webalkalmazás, amely a *Jurassic Worl
 ## Funkciók
 
 * Lények listázása táblázatos formában
+* Sorbarendezés Header szerint
 * Modern dark UI (Bootstrap + egyedi CSS)
 * Részletes statok:
 
