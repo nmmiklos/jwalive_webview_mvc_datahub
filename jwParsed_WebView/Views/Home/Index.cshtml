@@ -1,0 +1,228 @@
+﻿@model IEnumerable<jwParsed_WebView.Models.Creature>
+
+@{
+    ViewData["Title"] = "JWA Adatbázis";
+}
+
+<style>
+    /* ===== BODY ===== */
+    body {
+        background-color: #0b0d16;
+        color: #e6e9f0;
+        font-family: 'Segoe UI', sans-serif;
+    }
+
+    /* ===== CONTAINER ===== */
+    .main-container {
+        padding: 40px 0;
+    }
+
+    /* ===== TABLE WRAPPER ===== */
+    .table-container {
+        background: #121526;
+        border-radius: 12px;
+        overflow: hidden;
+        border: 1px solid #1f2338;
+    }
+
+    .table {
+        background-color: #121526 !important;
+    }
+
+        .table tbody tr {
+            background-color: #121526 !important;
+        }
+
+            .table tbody tr:nth-child(even) {
+                background-color: #14182b !important;
+            }
+
+            .table tbody tr:hover {
+                background-color: #1a1f36 !important;
+            }
+
+        .table td {
+            color: #e6e9f0 !important;
+        }
+
+        .table thead th {
+            color: #8f9bb3 !important;
+        }
+
+    /* ===== NAME ===== */
+    .creature-name {
+        font-weight: 600;
+        font-size: 1rem;
+        color: #ffffff;
+    }
+
+    /* ===== BADGES (LETISZTULTABB) ===== */
+    .rarity-badge {
+        padding: 4px 10px;
+        border-radius: 6px;
+        font-size: 0.7rem;
+        font-weight: 700;
+        letter-spacing: 0.5px;
+    }
+
+    /* SZÍNEK - NO GLOW */
+    .Unique {
+        background: #e74c3c;
+    }
+
+    .Legendary {
+        background: #f1c40f;
+        color: black;
+    }
+
+    .Apex {
+        background: #8e44ad;
+    }
+
+    .Epic {
+        background: #d4ac0d;
+        color: black;
+    }
+
+    .Rare {
+        background: #3498db;
+    }
+
+    .Common {
+        background: #7f8c8d;
+    }
+
+    .Omega {
+        background: #1abc9c;
+    }
+
+    /* ===== CLASS ===== */
+    .class-text {
+        color: #8f9bb3;
+        font-size: 0.85rem;
+    }
+
+    /* ===== STATS ===== */
+    .stat-val {
+        font-family: monospace;
+        font-weight: 600;
+    }
+
+    /* SZÍNEZÉS */
+    .hp {
+        color: #2ecc71;
+    }
+
+    .dmg {
+        color: #e74c3c;
+    }
+
+    .spd {
+        color: #3498db;
+    }
+
+    /* ===== VERSION ===== */
+    small {
+        color: #6b728a;
+    }
+
+    .stat-val {
+        color: #e6e9f0 !important;
+    }
+
+    .version {
+        color: #9aa3b2;
+    }
+
+    .subtitle {
+        color: #7c86a5;
+    }
+    /* ===== HARD DARK MODE FIX ===== */
+    .table-container,
+    .table-responsive,
+    .table,
+    .table thead,
+    .table tbody,
+    .table tr,
+    .table td,
+    .table th {
+        background-color: #121526 !important;
+    }
+
+        /* zebra striping */
+        .table tbody tr:nth-child(even) {
+            background-color: #14182b !important;
+        }
+
+        /* hover */
+        .table tbody tr:hover {
+            background-color: #1a1f36 !important;
+        }
+
+        /* szöveg fix */
+        .table td {
+            color: #e6e9f0 !important;
+        }
+
+        .table th {
+            color: #8f9bb3 !important;
+        }
+</style>
+
+<div class="container main-container">
+    <div class="row mb-4">
+        <div class="col-md-8">
+            <h1 class="display-5 fw-bold text-white">🦖 JWA Data Hub</h1>
+            <p class="subtitle">Interaktív lény adatbázis @Model.FirstOrDefault()?.Version</p>
+        </div>
+        <div class="col-md-4 text-md-end align-self-end">
+            <div class="h4 mb-0 text-white">@Model.Count()</div>
+            <div class="small text-muted uppercase">Regisztrált egyed</div>
+        </div>
+    </div>
+
+    <div class="table-container">
+        <div class="table-responsive">
+            <table class="table align-middle">
+                <thead>
+                    <tr>
+                        <th>ID</th>
+                        <th style="width: 20%">Lény neve</th>
+                        <th>Ritkaság</th>
+                        <th>Osztály</th>
+                        <th>HP</th>
+                        <th>DMG</th>
+                        <th>SPD</th>
+                        <th>Armor</th>
+                        <th>Crit</th>
+                        <th>Verzió</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    @foreach (var item in Model)
+                    {
+                        <tr>
+                            <td class="stat-val">@item.Id</td>
+                            <td>
+                                <span class="creature-name">@item.Name</span>
+                            </td>
+                            <td>
+                                <span class="rarity-badge @item.Rarity">@item.Rarity</span>
+                            </td>
+                            <td>
+                                <span class="class-text">@item.Class</span>
+                            </td>
+                            <td class="stat-val hp">@(item.Health?.ToString() ?? "-")</td>
+                            <td class="stat-val dmg text-warning">@(item.Damage?.ToString() ?? "-")</td>
+                            <td class="stat-val spd text-info">@(item.Speed?.ToString() ?? "-")</td>
+                            <td class="stat-val">@(item.Armor.HasValue? item.Armor + "%" : "-")</td>
+                            <td class="stat-val">@(item.Crit.HasValue? item.Crit + "%" : "-")</td>
+                            
+                            <td><small class="version">@item.Version</small></td>
+                        </tr>
+                    }
+                </tbody>
+            </table>
+        </div>
+    </div>
+</div>

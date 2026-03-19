@@ -1,0 +1,409 @@
+Name;Rarity;Class;HealthIcon;DamageIcon;SpeedIcon;ArmorIcon;CriticalChanceIcon;Version
+'93 Classic T. Rex;Omega;Class Fierce;1350;540;109;0%;10%;3.1
+AcrocanthopsProfile;Acrocanthops;Legendary;Class CunningClass Fierce;4500;1800;112;0%;20%;2.2
+AcrocanthosaurusProfile;Acrocanthosaurus;Epic;Class Fierce;4800;1700;110;0%;30%;2.2
+Aenocyonyx;Aenocyonyx;Unique;Class Fierce;4800;1500;128;0%;25%;2.20
+Ailurarctos;Ailurarctos;Epic;Class FierceClass Resilient;3900;1350;106;10%;5%;2.14
+Alacranix;Alacranix;Apex;Class Fierce;4050;1600;109;45%;15%;2.19
+Alankyloceratops;Alankyloceratops;Unique;Class Resilient;5400;1200;113;40%;5%;2.19
+AlankylosaurusProfile;Alankylosaurus;Legendary;Class Resilient;4799;1000;114;30%;5%;1.4
+AlanqaProfile;Alanqa;Epic;Class Resilient;4050;1200;125;0%;5%;1.4
+Albertocevia;Albertocevia;Unique;Class Fierce;4650;1650;121;0%;10%;2.15
+Albert;Albertosaurus;Rare;Class Fierce;4350;1750;106;0%;30%;2.8
+Albertospinos;Albertospinos;Unique;Class Fierce;4200;1450;125;0%;15%;2.13
+JWA Profile Allodrigues;Allodrigues;Unique;Class CunningClass Fierce;3300;1750;130;0%;15%;2.15
+Alloraptor-icon;Alloraptor;Legendary;Class CunningClass Fierce;3299;1700;130;0%;40%;1.11
+AllosaurusProfile;Allosaurus;Common;Class Fierce;4648;1750;104;0%;20%;1.0
+AllosaurusGEN2Profile;Allosaurus GEN 2;Epic;Class Fierce;4500;1800;105;0%;40%;1.9
+AllosinosaurusProfile;Allosinosaurus;Legendary;Class Fierce;4500;1800;106;15%;40%;1.0
+AmargasaurusProfile;Amargasaurus;Rare;Class Resilient;5250;1000;103;0%;5%;1.0
+AmargocephalusProfile;Amargocephalus;Epic;Class Resilient;3600;900;104;40%;5%;1.0
+AmphicyonProfile;Amphicyon;Common;Class Fierce;3150;1300;122;0%;40%;2.3
+Andrewsarchus;Andrewsarchus;Rare;Class Fierce;3300;1400;125;0%;40%;2.2
+Andrewtherium;Andrewtherium;Epic;Class Wildcard;3600;1300;119;5%;25%;2.8
+Andrewtodon;Andrewtodon;Epic;Class FierceClass Resilient;3450;1300;112;15%;25%;2.6
+Andrewtops;Andrewtops;Unique;Class Wildcard;3900;1600;126;10%;20%;2.10
+Angel;Angel;Legendary;Class FierceClass Resilient;4280;1450;127;10%;20%;3.7
+AnkylocodonProfile;Ankylocodon;Rare;Class FierceClass Resilient;4500;1000;107;25%;20%;1.3
+Ankylodactylus;Ankylodactylus;Legendary;Class CunningClass Resilient;3150;1200;126;15%;5%;2.14
+Ankylodicurus;Ankylodicurus;Epic;Class Resilient;4200;1150;108;35%;15%;2.4
+Ankylomoloch;Ankylomoloch;Legendary;Class Resilient;4050;1150;118;20%;10%;2.12
+AnkylosLuxProfile;Ankylos Lux;Apex;Class Resilient;4200;1100;110;35%;5%;2.13
+AnkylosaurusProfile;Ankylosaurus;Epic;Class Resilient;4650;1000;116;30%;5%;1.0
+AnkylosaurusGEN2Profile;Ankylosaurus GEN 2;Common;Class Resilient;4200;1000;111;25%;5%;1.0
+AnkyntrosaurusProfile;Ankyntrosaurus;Legendary;Class Resilient;3900;900;109;40%;5%;1.0
+AntarctopeltaProfile;Antarctopelta;Epic;Class Resilient;3750;1000;111;30%;10%;2.3
+AntarctovenatorProfile;Antarctovenator;Unique;Class Wildcard;4200;1200;110;20%;10%;2.3
+Anurognathus;Anurognathus;Epic;Class Cunning;2550;1150;131;0%;10%;2.14
+ApatosaurusProfile;Apatosaurus;Common;Class Resilient;6000;900;101;0%;5%;1.0
+Aquilamimus;Aquilamimus;Epic;Class Cunning;2850;1150;130;0%;5%;2.3
+ArambourgianiaProfile;Arambourgiania;Rare;Class Resilient;4350;1000;115;0%;5%;1.4
+ArchaeopteryxProfile;Archaeopteryx;Rare;Class Cunning;3300;1250;127;0%;10%;2.9
+ArchaeotheriumProfile;Archaeotherium;Common;Class Fierce;4650;1000;123;10%;20%;1.13
+Arctalces;Arctalces;Legendary;Class FierceClass Resilient;3750;1150;113;15%;5%;2.12
+Arctodus;Rare;Class FierceClass Resilient;4200;1250;107;10%;5%;2.12
+ArctopsProfile;Arctops;Rare;Class Cunning;3000;1400;131;0%;5%;1.14
+Arctovasilas;Apex;Class Wildcard;4500;1350;117;25%;5%;2.12
+ArdentismaximaProfile;Ardentismaxima;Unique;Class FierceClass Resilient;5700;1200;109;0%;30%;1.8
+Ardontognathus;Ardontognathus;Unique;Class Wildcard;3300;1400;123;0%;25%;2.14
+ArdontosaurusProfile;Ardontosaurus;Legendary;Class FierceClass Resilient;4500;1500;108;0%;20%;1.7
+TheVulture;Argentavis;Rare;Class Cunning;4050;1050;128;0%;10%;2.8
+ArgenteryxProfile;Argenteryx;Epic;Class Cunning;3750;1150;127;0%;10%;2.10
+ArgentinosaurusProfile;Argentinosaurus;Rare;Class Resilient;5400;1100;102;0%;20%;1.0
+Snow Atrociraptor;Atrocimoloch;Unique;Class FierceClass Resilient;4500;1450;124;15%;5%;3.1
+Rocket Atrociraptor;Atrocodistis;Unique;Class CunningClass Resilient;4200;1300;125;25%;5%;2.20
+Diver;Australotitan;Omega;Class Wildcard;1150;660;86;5%;0%;3.1
+Bajadasaurus-icon;Bajadasaurus;Rare;Class Resilient;4350;900;108;0%;5%;1.11
+Bajatonodon;Bajatonodon;Legendary;Class Resilient;4500;1500;106;0%;5%;1.11
+BaryonyxProfile;Baryonyx;Epic;Class Fierce;4200;1400;126;0%;30%;1.2
+BaryonyxGEN2Profile;Baryonyx GEN 2;Rare;Class Fierce;4350;1000;123;0%;20%;1.2
+Frog JWA;Beelzebufo;Epic;Class Cunning;3600;1550;125;0%;10%;2.22
+BetaProfile;Beta;Epic;Class Cunning;2400;1200;133;0%;5%;2.17
+BlueProfile;Blue;Epic;Class Cunning;2400;1300;131;0%;5%;1.2
+Borealopelta;Borealopelta;Omega;Class Resilient;1200;375;101;0%;5%;3.3
+BrachiosaurusProfile;Brachiosaurus;Epic;Class Resilient;6000;1000;111;10%;30%;1.3
+Brontolasmus;Brontolasmus;Epic;Class Resilient;3900;1300;108;30%;5%;1.9
+BrontotheriumProfile;Brontotherium;Common;Class Resilient;4200;1200;108;20%;5%;1.7
+Speedbump;Bumpy;Epic;Class Resilient;4200;1050;113;25%;10%;2.7
+CarbonemysProfile;Carbonemys;Epic;Class Resilient;3300;900;103;60%;5%;1.9
+Carbotoceratops;Carbotoceratops;Legendary;Class Resilient;4350;1000;104;50%;5%;1.9
+Carcharodontosaurus;Carcharodontosaurus;Omega;Class CunningClass Fierce;1150;400;110;0%;30%;3.3
+CarnotarkusProfile;Carnotarkus;Legendary;Class Wildcard;3600;1000;110;20%;5%;1.8
+CarnotaurusProfile;Carnotaurus;Rare;Class Wildcard;3600;1000;104;0%;5%;1.2
+CeramagnusProfile;Ceramagnus;Apex;Class Resilient;4500;1300;113;25%;10%;2.2
+Ceratosaurus;Ceratosaurus;Unique;Class FierceClass Resilient;5250;1550;119;10%;15%;2.23
+Ceratosaurus GEN 2;Ceratosaurus GEN 2;Omega;Class Fierce;1400;410;106;0%;5%;3.5
+Cervalces;Cervalces;Rare;Class Resilient;3150;1250;128;5%;10%;2.12
+CharlieProfile;Charlie;Rare;Class Cunning;2100;1450;130;0%;5%;1.2
+CleverGirlCard;Clever Girl;Omega;Class Cunning;1300;500;119;0%;30%;3.0.30
+CoelhaastProfile;Coelhaast;Legendary;Class Wildcard;3150;1250;130;0%;10%;2.9
+CoelurosauravusProfile;Coelurosauravus;Common;Class Cunning;3450;1050;126;0%;15%;2.9
+Quiver;Compsocaulus;Unique;Class Cunning;3750;1350;127;0%;10%;2.7
+JWA Profile Compsognathus;Compsognathus;Epic;Class Cunning;3600;1200;128;0%;5%;2.7
+JWA Profile CompsognathusGEN 2;Compsognathus GEN 2;Rare;Class Cunning;3750;1100;127;0%;10%;2.7
+CompsoraptorProfile;Compsoraptor;Unique;Class CunningClass Fierce;3450;1450;131;0%;30%;2.17
+Compsovenator;Compsovenator;Apex;Class CunningClass Fierce;3900;1500;130;0%;35%;3.7
+Concakuisaurus;Concakuisaurus;Legendary;Class FierceClass Resilient;4800;1150;125;0%;10%;3.3
+Concatoloch;Concatoloch;Apex;Class Resilient;4600;1200;112;30%;5%;3.4
+Concatosaurus;Concatosaurus;Unique;Class FierceClass Resilient;5150;1400;115;15%;0%;3.3
+ConcavenatorProfile;Concavenator;Epic;Class FierceClass Resilient;3750;1150;106;0%;10%;1.2
+Crystal Atrociraptor;Constrictoraptor;Unique;Class Wildcard;4100;1350;125;5%;10%;3.0.30
+Crichtomoloch;Crichtomoloch;Unique;Class CunningClass Resilient;4650;1450;115;15%;20%;3.5
+Crichtonsaurus;Crichtonsaurus;Rare;Class CunningClass Resilient;4450;1350;118;10%;20%;3.5
+Cryolophosaurus;Cryolophosaurus;Omega;Class CunningClass Resilient;1000;490;101;5%;5%;3.3
+North Dakota;Dakotanops;Legendary;Class Cunning;3300;1200;131;0%;10%;2.4
+Dakota;Dakotaraptor;Epic;Class Cunning;3150;1200;129;0%;5%;2.4
+DarwezoptwryxProfile;Darwezopteryx;Legendary;Class FierceClass Resilient;4200;1000;127;0%;5%;1.6
+DarwinopterusProfile;Darwinopterus;Epic;Class Fierce;2700;1000;129;0%;5%;1.5
+DeinocheirusProfile;Deinocheirus;Common;Class Cunning;2700;1350;131;0%;5%;1.1
+DeinonychusProfile;Deinonychus;Common;Class Cunning;2100;1200;132;0%;5%;2.0
+Elephant;Deinotherium;Rare;Class Wildcard;3900;1050;115;5%;10%;2.8
+DeltaProfile;Delta;Rare;Class Cunning;2400;1300;131;0%;5%;1.2
+DiabloceratopsCard;Diabloceratops;Omega;Class Resilient;5100;1350;107;35%;5%;3.0
+DilophoboaProfile;Dilophoboa;Legendary;Class Cunning;3600;1100;124;0%;10%;1.12
+DilophosaurusProfile;Dilophosaurus;Rare;Class Cunning;3600;1300;124;0%;5%;1.0
+DilophosaurusGEN2Profile;Dilophosaurus GEN 2;Common;Class Cunning;2550;1850;121;0%;5%;1.0
+DiloracheirusProfile;Diloracheirus;Unique;Class Cunning;4470;1650;128;0%;10%;1.4
+DiloranosaurusProfile;Diloranosaurus;Legendary;Class Cunning;4200;1500;116;0%;5%;1.3
+DimetrodonProfile;Dimetrodon;Rare;Class Fierce;4200;1400;113;0%;5%;1.0
+DimetrodonGEN2Profile;Dimetrodon GEN 2;Common;Class Fierce;4500;1200;112;0%;5%;1.0
+Dimodactylus;Epic;Class FierceClass Resilient;3450;1100;127;0%;15%;1.5
+DimorphodonProfile;Dimorphodon;Common;Class Fierce;2700;500;128;0%;5%;1.5
+DiorajasaurProfile;Diorajasaur;Unique;Class Resilient;4500;1200;108;30%;30%;1.2
+DiplocaulusProfile;Diplocaulus;Common;Class Cunning;2850;1600;125;0%;5%;1.1
+DiplocaulusGEN2Profile;Diplocaulus GEN 2;Rare;Class Cunning;4050;1000;125;0%;5%;1.1
+DiplodocusProfile;Diplodocus;Epic;Class Resilient;6000;1500;104;0%;5%;1.5
+DiplotatorProfile;Diplotator;Rare;Class CunningClass Fierce;3000;1400;127;0%;5%;1.3
+DiplovenatorProfile;Diplovenator;Legendary;Class CunningClass Fierce;4050;1000;110;0%;5%;1.8
+Dire Wolf;Dire Wolf;Rare;Class Fierce;3600;1450;127;0%;20%;2.20
+Dodo;Dodo;Epic;Class Cunning;3900;1200;123;0%;5%;2.7
+Plucked chicken;Dodocevia;Legendary;Class Wildcard;4050;1400;126;0%;5%;2.7
+DoedicurusProfile;Doedicurus;Rare;Class Resilient;4200;1200;111;50%;5%;2.1
+Draco Lux;Draco Lux;Apex;Class Wildcard;4950;1700;128;15%;15%;3.4
+DracoceratopsProfile;Dracoceratops;Legendary;Class Fierce;4200;1500;115;0%;5%;1.5
+DracoceratosaurusProfile;Dracoceratosaurus;Unique;Class Cunning;3900;1600;119;0%;5%;2.0
+DracorexProfile;Dracorex;Rare;Class Resilient;4800;1100;124;0%;5%;1.2
+DracorexGEN2Profile;Dracorex GEN 2;Common;Class Fierce;3600;1500;108;0%;5%;1.2
+Dracovenator Card;Dracovenator;Unique;Class Cunning;4500;1750;128;0%;20;2.23
+Dreadactylus;Dreadactylus;Legendary;Class CunningClass Resilient;4200;1000;112;5%;5%;2.16
+De0c7545ebf28d1fe99973b59e54c9b652899597;Dreadnoughtus;Rare;Class Resilient;6000;1000;107;10%;5%;2.16
+DsungaiaProfile;Dsungaia;Legendary;Class Resilient;4200;1050;117;20%;5%;1.8
+DsungaripterusProfile;Dsungaripterus;Rare;Class Fierce;3450;1000;125;0%;5%;1.4
+JWA Scorpion;Dsungascorpios;Unique;Class FierceClass Resilient;3300;1100;116;30%;15%;2.19
+EchoProfile;Echo;Rare;Class Cunning;2100;1350;129;0%;5%;1.2
+Edaphocevia;Edaphocevia;Legendary;Class CunningClass Fierce;4200;1000;127;0%;5%;2.0
+EdaphosaurusProfile;Edaphosaurus;Epic;Class Fierce;4500;1000;115;0%;20%;2.0
+Edmontoguanodon;Edmontoguanodon;Epic;Class Resilient;4500;1200;110;0%;5%;1.6
+EdmontosaurusProfile;Edmontosaurus;Rare;Class Resilient;4800;1000;113;0%;5%;1.0
+EiniasuchusProfile;Einiasuchus;Rare;Class Resilient;3600;1000;111;20%;5%;1.0
+EiniosaurusProfile;Einiosaurus;Common;Class Resilient;3600;1000;110;15%;5%;1.0
+ElasmotheriumProfile;Elasmotherium;Rare;Class Resilient;4500;1250;108;30%;5%;1.7
+EntelocerosProfile;Enteloceros;Legendary;Class FierceClass Resilient;4500;1300;126;20%;10%;2.11
+Entelochops;Entelochops;Epic;Class FierceClass Resilient;4200;1100;126;20%;5%;1.14
+Entelodon;Entelodon;Rare;Class Fierce;3600;1200;122;0%;30%;1.9
+Entelolania;Entelolania;Unique;Class Resilient;4200;1400;107;45%;5%;2.1
+EntelomothProfile;Entelomoth;Legendary;Class FierceClass Resilient;4200;1000;120;20%;5%;1.12
+Eremoceros;Eremoceros;Legendary;Class CunningClass Resilient;3900;1300;126;10%;5%;2.2
+EremotheriumProfile;Eremotherium;Common;Class Cunning;3150;1050;102;0%;5%;2.1
+ErlidominusProfile;Erlidominus;Unique;Class Cunning;3300;1500;129;0%;50%;1.1
+ErlikogammaProfile;Erlikogamma;Epic;Class Cunning;3000;1450;130;0%;5%;1.11
+ErlikosaurusProfile;Erlikosaurus;Epic;Class Cunning;3000;1400;129;0%;5%;1.1
+ErlikosaurusGEN2Profile;Erlikosaurus GEN 2;Rare;Class Cunning;3000;1350;129;0%;5%;1.1
+ErlikospyxProfile;Erlikospyx;Unique;Class Cunning;4200;1500;128;0%;20%;1.7
+EucladocerosProfile;Eucladoceros;Epic;Class Resilient;3300;1000;128;10%;5%;1.13
+EuoplocephalusProfile;Euoplocephalus;Common;Class Resilient;3600;900;112;40%;5%;1.0
+FukuimimusProfile;Fukuimimus;Legendary;Class CunningClass Resilient;4800;1250;121;0%;15%;2.13
+FukuiraptorCard;Fukuiraptor;Omega;Class CunningClass Resilient;1150;530;117;10%;20%;3.0.30
+FukuisaurusProfile;Fukuisaurus;Rare;Class Wildcard;4650;1050;115;0%;5%;2.13
+GallimimusProfile;Gallimimus;Common;Class Cunning;2700;1300;130;0%;5%;1.3
+Lava;Geminideus;Apex;Class Resilient;6600;1200;110;30%;5%;2.20
+GeminititanProfile;Geminititan;Unique;Class Resilient;5400;1300;110;0%;5%;1.7
+Geosternbergia;Geosternbergia;Omega;Class Fierce;1120;530;96;5%;0%;3.2
+GhostProfile;Ghost;Epic;Class Cunning;3000;1350;130;0%;10%;2.17
+A3cb614c7210dc04f6940e44674d9acb3a1cd7cb;Giganotosaurus;Epic;Class Fierce;5400;1700;102;0%;30%;2.16
+Giganspinoceratops;Giganspinoceratops;Unique;Class Resilient;4750;1350;114;15%;5%;3.4
+Gigantspinosaurus;Gigantspinosaurus;Epic;Class CunningClass Resilient;4980;1350;112;15%;15%;3.4
+GiganyxProfile;Giganyx;Unique;Class Fierce;5100;1650;125;0%;25%;2.16
+GigaspikasaurProfile;Gigaspikasaur;Legendary;Class Resilient;4650;1200;108;40%;5%;1.0
+GiraffatitanProfile;Giraffatitan;Rare;Class Resilient;5700;1000;107;10%;20%;1.3
+GlyptocerasProfile;Glyptoceras;Legendary;Class CunningClass Resilient;3750;1300;113;25%;10%;2.10
+Glyptodon;Glyptodon;Common;Class Resilient;3900;1000;103;40%;5%;2.2
+Dino-card-Wiki;Glyptosavis;Apex;Class CunningClass Resilient;?;?;?;?;?;?
+GorgonopsProfile;Gorgonops;Rare;Class Cunning;3150;1100;132;0%;5%;2.3
+GorgosaurusProfile;Gorgosaurus;Rare;Class Fierce;4200;1700;102;0%;20%;1.0
+GorgosuchusProfile;Gorgosuchus;Epic;Class Fierce;4500;1000;120;0%;30%;1.0
+GorgotrebaxProfile;Gorgotrebax;Apex;Class Cunning;4500;1600;113;0%;20%;2.3
+Gryganyth;Gryganyth;Apex;Class Fierce;5200;1750;123;10%;20%;3.6
+GrylenkenProfile;Grylenken;Legendary;Class Cunning;3600;1500;129;10%;10%;1.14
+GrypolythProfile;Grypolyth;Unique;Class FierceClass Resilient;4200;1250;106;20%;5%;1.5
+GryposuchusProfile;Gryposuchus;Epic;Class Fierce;4200;1200;116;20%;20%;1.3
+HaastEagleProfile;Haast Eagle;Epic;Class Cunning;2700;1150;132;0%;5%;2.0
+HaastEagleGEN2Profile;Haast Eagle GEN 2;Rare;Class Cunning;3000;1000;130;0%;5%;2.0
+Rodan;Haast Maximus;Apex;Class Cunning;4350;1550;128;0%;25%;2.8
+HadrosLuxProfile;Hadros Lux;Apex;Class Resilient;5100;1350;108;0%;5%;2.1
+HatzegopteryxProfile;Hatzegopteryx;Common;Class Resilient;4500;1150;114;0%;5%;1.4
+Homalocephale;Homalocephale;Omega;Class Resilient;1350;420;102;5%;5%;3.2
+Rainbow Serpent;Hydra Boa;Apex;Class Cunning;4200;1350;122;15%;30%;2.8
+Swimming;Ichthyovenator;Omega;Class CunningClass Fierce;1350;440;118;0%;10%;3.1
+IguanodonProfile;Iguanodon;Common;Class Resilient;4350;1150;112;0%;5%;1.0
+Imperatosuchus;Imperatosuchus;Apex;Class Fierce;4650;1350;112;25%;15%;2.14
+JWA Dog;Indolycan;Apex;Class CunningClass Fierce;4500;1700;130;0%;30%;2.20
+IndominusRexProfile;Indominus Rex;Legendary;Class Fierce;4500;1500;107;0%;30%;1.0
+Indominus rex gen 2;Indominus Rex GEN 2;Epic;Class Fierce;4200;1400;108;0%;20%;1.9
+Dino-card-Wiki;Indonemys;Apex;Class Fierce;4500;1550;119;30%;20%;2.18
+IndoraptorProfile;Indoraptor;Unique;Class CunningClass Fierce;4200;1400;128;0%;20%;1.2
+IndoraptorGEN2Profile;Indoraptor GEN 2;Legendary;Class Cunning;3900;1450;128;0%;20%;1.9
+IndotaurusProfile;Indotaurus;Unique;Class Fierce;4650;1600;106;0%;20%;2.10
+Inostherium;Inostherium;Rare;Class Cunning;3000;1400;131;0%;5%;2.1
+InostranceviaProfile;Inostrancevia;Common;Class Cunning;3900;1200;130;0%;5%;1.14
+IrritatorProfile;Irritator;Rare;Class Fierce;4500;1000;126;0%;5%;1.2
+IrritatorGEN2Profile;Irritator GEN 2;Common;Class Fierce;3300;1000;124;0%;30%;1.2
+KaprosuchusProfile;Kaprosuchus;Rare;Class Fierce;3900;1000;125;0%;5%;1.0
+Kelenken;Kelenken;Rare;Class Cunning;3000;1600;131;0%;5%;1.9
+KentrosaurusProfile;Kentrosaurus;Epic;Class Resilient;3600;1000;112;0%;5%;1.0
+KeratoporcusProfile;Keratoporcus;Legendary;Class Fierce;4500;1200;110;20%;5%;1.13
+KoolabourgianaProfile;Koolabourgiana;Legendary;Class CunningClass Resilient;4950;1000;117;0%;5%;1.7
+KoolasuchusProfile;Koolasuchus;Epic;Class Cunning;3900;1000;127;0%;5%;1.1
+KoolasuchusGEN2Profile;Koolasuchus GEN 2;Rare;Class Cunning;4500;1500;126;0%;5%;1.1
+Koreanosaurus;Koreanosaurus;Omega;Class Resilient;1500;400;111;10%;5%;3.1
+Lambeosaurus;Lambeosaurus;Omega;Class Resilient;1250;350;101;5%;0%;3.7
+6a05910377dd6490d26d14e06c31bc63302d2c05;Lystrosaurus;Epic;Class Cunning;3600;1150;125;0%;10%;2.16
+Water;Lystrosavis;Unique;Class CunningClass Resilient;3750;1350;131;0%;20%;2.18
+LystrosuchusProfile;Lystrosuchus;Legendary;Class CunningClass Resilient;3900;1150;123;10%;10%;2.16
+LythronaxProfile;Lythronax;Common;Class Resilient;4200;1000;104;0%;5%;1.0
+MagnapyritorProfile;Magnapyritor;Unique;Class CunningClass Fierce;3900;1450;128;0%;20%;1.2
+Magnaraptor;Magnaraptor;Apex;Class CunningClass Fierce;4200;1900;132;0%;25%;3.5
+MaiasauraProfile;Maiasaura;Epic;Class Resilient;3000;1300;126;0%;5%;1.6
+MajundaboaProfile;Majundaboa;Epic;Class Resilient;3600;1000;110;0%;5%;1.14
+MajundasuchusProfile;Majundasuchus;Rare;Class FierceClass Resilient;3450;1000;108;0%;5%;1.0
+MajungasaurusProfile;Majungasaurus;Common;Class FierceClass Resilient;3450;1000;105;0%;5%;1.0
+MammolaniaProfile;Mammolania;Unique;Class Resilient;5100;1000;115;50%;5%;1.13
+MammotheriumProfile;Mammotherium;Legendary;Class Resilient;3600;1500;115;30%;5%;1.11
+Marsupial lion;Marsupial Lion;Rare;Class Fierce;4050;1000;117;0%;40%;1.7
+Masiakasaurus;Masiakasaurus;Omega;Class Cunning;820;425;117;0%;10%;3.2
+Megalania;Megalania;Omega;Class CunningClass Fierce;1200;380;100;0%;0%;3.0.30C
+Megaloceros;Megaloceros;Rare;Class Resilient;3300;1000;127;10%;5%;1.11
+Megalocevia;Megalocevia;Apex;Class FierceClass Resilient;5100;1600;121;10%;20%;3.6
+MegalogaiaProfile;Megalogaia;Epic;Class Resilient;3750;1000;122;0%;5%;1.12
+MegalonyxProfile;Megalonyx;Rare;Class Cunning;3450;1200;103;0%;10%;2.9
+MegalosaurusProfile;Megalosaurus;Rare;Class FierceClass Resilient;3900;1000;105;0%;5%;1.0
+MegalosuchusProfile;Megalosuchus;Legendary;Class FierceClass Resilient;3600;1000;109;0%;5%;1.0
+MegalotopsProfile;Megalotops;Epic;Class Wildcard;3750;1150;108;10%;10%;2.10
+Megistocurus;Megistocurus;Legendary;Class FierceClass Resilient;3750;1400;115;15%;30%;2.8
+MegistotheriumProfile;Megistotherium;Epic;Class Fierce;3600;1350;120;0%;40%;2.3
+MeiolaniaProfile;Meiolania;Rare;Class Resilient;3300;1000;105;50%;5%;1.13
+MicroraptorProfile;Microraptor;Epic;Class Cunning;1650;1100;136;0%;15%;2.17
+MiragaiaProfile;Miragaia;Common;Class Resilient;3000;1000;109;0%;5%;1.5
+MonolometrodonProfile;Monolometrodon;Legendary;Class CunningClass Fierce;4200;1400;125;0%;5%;1.4
+MonolophosaurusProfile;Monolophosaurus;Epic;Class Cunning;3000;1300;127;0%;5%;1.0
+MonolophosaurusGEN2Profile;Monolophosaurus GEN 2;Common;Class Cunning;2700;1350;126;0%;5%;1.0
+Monolorhino;Monolorhino;Unique;Class Wildcard;4500;1250;116;30%;5%;1.11
+MonomimusProfile;Monomimus;Legendary;Class Cunning;3750;1350;131;0%;5%;1.3
+MonostegotopsProfile;Monostegotops;Legendary;Class Wildcard;3750;1000;116;25%;5%;1.0
+Moros Intrepidus Profile;Moros Intrepidus;Epic;Class Fierce;3300;1100;115;0%;20%;2.18
+MortemRexBossProfile;Mortem Rex;Apex;Class Fierce;4800;2000;108;0%;40%;2.0
+MoschopsProfile;Moschops;Rare;Class Resilient;4500;1000;113;25%;5%;1.14
+NasutoceratopsProfile;Nasutoceratops;Rare;Class Wildcard;4800;1000;109;20%;5%;1.9
+NodopatosaurusProfile;Nodopatosaurus;Epic;Class Resilient;4800;1000;106;30%;5%;1.0
+NodopatotitanProfile;Nodopatotitan;Legendary;Class Resilient;5250;1000;108;40%;5%;1.4
+NodosaurusProfile;Nodosaurus;Rare;Class Resilient;4350;950;115;30%;5%;1.0
+Nomingia;Nomingia;Unique;Class Cunning;4500;1450;125;10%;10%;3.2
+NundasuchusProfile;Nundasuchus;Common;Class Fierce;3000;1500;128;0%;5%;1.0
+Olorotitan;Olorotitan;Omega;Class FierceClass Resilient;810;495;103;5%;0%;3.2
+OphiacodonProfile;Ophiacodon;Common;Class Fierce;4350;1400;108;0%;40%;1.0
+OrnithomimusProfile;Ornithomimus;Rare;Class Cunning;3000;1600;131;0%;5%;1.3
+OuranosaurusProfile;Ouranosaurus;Epic;Class Resilient;3600;1500;104;0%;5%;1.0
+OvilophomolochProfile;Ovilophomoloch;Legendary;Class CunningClass Resilient;3150;1250;129;0%;10%;2.11
+Big Bird;Ovilophosaurus;Epic;Class Cunning;2850;1200;127;0%;10%;2.4
+Oviraptor;Oviraptor;Rare;Class Cunning;2700;1300;129;0%;15%;2.4
+Oviraptor GEN 2;Oviraptor GEN 2;Epic;Class Cunning;2600;1350;131;0%;15%;2.18
+Ovylenken;Ovylenken;Unique;Class Cunning;4000;1200;131;0%;0%;3.7
+Pachycephalosaurus V2;Pachycephalosaurus;Epic;Class Resilient;3900;1200;121;0%;5%;1.6
+Atrociraptor 2 Image;Panthera;Epic;Class Wildcard;3250;1300;126;5%;10%;2.20
+Cat JWA;Panthera Blytheae;Legendary;Class Cunning;3900;1500;126;0%;20%;2.20
+Pantherator;Pantherator;Unique;Class Cunning;4300;1600;127;0%;30%;3.2
+ParamolochProfile;Paramoloch;Legendary;Class Resilient;4350;1500;126;0%;5%;1.2
+ParasaurolophusProfile;Parasaurolophus;Common;Class Resilient;4500;1200;106;0%;5%;1.0
+Para Lux;Parasaurolophus Lux;Legendary;Class Resilient;4950;1250;106;0%;5%;2.3
+ParasauthopsProfile;Parasauthops;Unique;Class CunningClass Resilient;4650;1600;109;0%;15%;2.11
+Biggie Cheese;Phorurex;Unique;Class CunningClass Fierce;3900;1500;128;0%;10%;2.10
+Phorusaura;Phorusaura;Legendary;Class Cunning;3600;1400;130;0%;5%;1.9
+ProfilePhorusrhacos;Phorusrhacos;Common;Class Cunning;3000;1500;130;0%;5%;1.7
+Plateopikasaurus;Plateopikasaurus;Unique;Class Resilient;5100;1450;117;25%;10%;3.4
+Plateorex;Plateorex;Apex;Class Wildcard;5100;1750;117;25%;20%;3.5
+Plateosaurus;Plateosaurus;Common;Class Resilient;4200;1300;117;15%;15%;3.4
+PostimetrodonProfile;Postimetrodon;Epic;Class Fierce;4500;1200;124;0%;5%;1.0
+PostosuchusProfile;Postosuchus;Rare;Class Fierce;3000;1200;126;0%;20%;1.0
+Poukaidei;Poukaidei;Legendary;Class Cunning;4050;1500;131;0%;5%;2.1
+Poukandactylus;Poukandactylus;Unique;Class CunningClass Fierce;4050;1200;127;0%;15%;2.3
+Preondactylus;Preondactylus;Rare;Class Cunning;2250;1350;133;0%;5%;2.14
+ProceratomimusProfile;Procerathomimus;Epic;Class Cunning;3000;1600;127;0%;5%;1.6
+ProceratosaurusProfile;Proceratosaurus;Rare;Class Cunning;3000;1300;126;0%;5%;1.0
+Protoceratops;Protoceratops;Epic;Class FierceClass Resilient;4000;1350;107;15%;5%;3.8
+Protonodon;Protonodon;Rare;Class FierceClass Resilient;5000;?;?;?%;?%;?
+PteranodonProfile;Pteranodon;Epic;Class Fierce;3300;900;127;0%;5%;1.4
+JWA Profile Pteranokyrie;Pteranokyrie;Apex;Class Wildcard;5100;1550;128;25%;10%;2.17
+PteraquetzalProfile;Pteraquetzal;Legendary;Class Resilient;4500;1000;125;0%;5%;1.8
+PterovexusProfile;Pterovexus;Unique;Class Wildcard;4050;1300;130;0%;15%;1.6
+Pulmonoscorpius;Pulmonoscorpius;Epic;Class Fierce;2400;1000;116;30%;0;2.19
+PurrolythProfile;Purrolyth;Rare;Class FierceClass Resilient;3600;1000;105;10%;5%;1.5
+PurrusaurusProfile;Purussaurus;Rare;Class Fierce;4500;1000;111;15%;5%;1.2
+PurrusaurusGEN2Profile;Purussaurus GEN 2;Common;Class Fierce;4200;1250;111;10%;20%;1.2
+PurutaurusProfile;Purutaurus;Epic;Class Wildcard;4200;1000;110;0%;5%;1.7
+PyroraptorProfile;Pyroraptor;Epic;Class Cunning;3150;1500;129;0%;5%;1.0
+Pyroraptor.png;Pyroraptor GEN 2;Rare;Class Cunning;3150;1200;129;0%;10%;2.19
+Problem Atrociraptor;Pyrorixis;Unique;Class CunningClass Fierce;4500;1500;129;10%;10%;2.20
+Cowboy JWA;Pyrosuchus;Legendary;Class CunningClass Resilient;3750;1350;126;15%;5%;2.19
+PyrritatorProfile;Pyrritator;Legendary;Class CunningClass Fierce;2550;1400;129;0%;20%;1.2
+QuetzalcoatlusProfile;Quetzalcoatlus;Rare;Class Resilient;5100;1000;117;0%;5%;1.4
+Quetzalcoatlus GEN 2;Quetzalcoatlus GEN 2;Epic;Class FierceClass Resilient;3600;1080;121;10%;10%;2.18
+Quetzaljara;Quetzaljara;Unique;Class CunningClass Resilient;4650;1450;123;10%;20%;3.6
+Quetzorion;Quetzorion;Unique;Class CunningClass Resilient;4350;1600;130;0%;20%;1.8
+Rajadorixis;Rajadorixis;Apex;Class CunningClass Resilient;5100;1500;120;15%;30%;3.7
+Rajadotholus;Rajadotholus;Unique;Class Resilient;4900;1300;112;30%;25%;3.7
+RajakylosaurusProfile;Rajakylosaurus;Legendary;Class Resilient;4350;1000;104;30%;5%;1.0
+RajasaurusProfile;Rajasaurus;Epic;Class Resilient;4200;1000;104;0%;30%;1.0
+Rajatholus;Rajatholus;Legendary;Class CunningClass Resilient;4200;1200;111;10%;25%;3.7
+Rativates;Rativates;Omega;Class CunningClass Fierce;1170;485;114;0%;5%;3.2
+Rebel;Rebel;Legendary;Class CunningClass Resilient;4280;1450;127;10%;20%;3.7
+Red;Red;Epic;Class Cunning;3000;1350;130;0%;10%;2.18
+Rush;Refrenantem;Apex;Class Cunning;4800;1600;126;0%;20%;2.7
+RexyProfile;Rexy;Legendary;Class Fierce;4950;1850;106;0%;45%;2.15
+Wrench;Rinchenia;Epic;Class Cunning;2700;1450;129;0%;10%;2.6
+Clown Dog;Rinchicyon;Legendary;Class CunningClass Fierce;3450;1400;129;0%;25%;2.10
+RodriguesSolitaire;Rodrigues Solitaire;Rare;Class Cunning;2850;1300;128;0%;5%;2.15
+Sah Panthera;Sah Panthera;Apex;Class Wildcard;4650;1700;128;10%;30%;3.4
+SarcorixisProfile;Sarcorixis;Epic;Class Resilient;4500;1100;113;25%;5%;1.3
+SarcosuchusProfile;Sarcosuchus;Common;Class Fierce;3600;1000;108;10%;5%;1.2
+Scaphognathus;Scaphognathus;Rare;Class Fierce;2700;1000;128;0%;5%;1.6
+Scaphotator;Scaphotator;Epic;Class CunningClass Fierce;3000;1000;127;0%;5%;1.11
+Scelidosauruscard;Scelidosaurus;Legendary;Class Resilient;4900;1450;113;40%;10%;3.5
+JWA Profile Scolosaurus;Scolosaurus;Common;Class Resilient;4050;1000;107;30%;5%;1.6
+E750;Scorpios rex;Legendary;Class CunningClass Fierce;3750;1300;117;0%;15%;2.8
+Scorpiss G2;Scorpios rex GEN 2;Epic;Class CunningClass Fierce;3600;1250;118;0%;10%;2.8
+E752;Scorpios rex GEN 3;Unique;Class CunningClass Fierce;4050;1350;119;0%;25%;2.8
+Armor doog;Scutophicyon;Legendary;Class FierceClass Resilient;3600;1350;118;10%;25%;2.8
+ScutosaurusProfile;Scutosaurus;Epic;Class Resilient;4800;1200;116;25%;5%;1.14
+SecodontosaurusProfile;Secodontosaurus;Epic;Class Fierce;3900;1500;114;0%;5%;1.0
+SegnoraptorProfile;Segnoraptor;Legendary;Class Wildcard;3300;1250;134;0%;5%;2.17
+Shark;Segnosaurus;Omega;Class Wildcard;1260;460;103;5%;5%;3.1
+Hot Chocolate;Segnotherisaurus;Unique;Class Wildcard;4100;1350;125;25%;125%;3.1
+SinoceratopsProfile;Sinoceratops;Epic;Class Resilient;3300;1000;107;25%;5%;1.0
+Sinokotaraptor;Sinokotaraptor;Legendary;Class Cunning;3300;1200;128;0%;10%;2.11
+Sinosauropteryx;Sinosauropteryx;Common;Class Cunning;2700;1000;128;0%;10%;2.11
+Sinraptor;Sinraptor;Omega;Class CunningClass Fierce;1350;575;114;0%;5%;3.4
+SkoolasaurusProfile;Skoolasaurus;Legendary;Class CunningClass Resilient;4500;1000;124;30%;5%;1.6
+Skoonametrodon;Skoonametrodon;Apex;Class FierceClass Resilient;5100;1900;113;10%;29%;3.3
+Skoonasaurus;Skoonasaurus;Unique;Class CunningClass Resilient;5700;1150;108;30%;20%;2.2
+SmilocephalosaurusProfile;Smilocephalosaurus;Legendary;Class Cunning;3900;1400;127;0%;5%;1.8
+SmilodonProfile;Smilodon;Epic;Class Cunning;3000;1500;129;0%;5%;1.7
+Smilonemys;Smilonemys;Unique;Class CunningClass Resilient;4200;1200;127;40%;5%;1.9
+SonorasaurusProfile;Sonorasaurus;Epic;Class Resilient;5250;1000;105;0%;5%;2.1
+Sphaerotholus;Sphaerotholus;Rare;Class CunningClass Resilient;4000;1250;117;10%;10%;3.7
+Sino Spino JWA;Spinoceratops;Legendary;Class FierceClass Resilient;5100;1150;118;30%;5%;2.20
+SpinoconstrictorProfile;Spinoconstrictor;Unique;Class CunningClass Fierce;4200;1300;126;0%;10%;1.12
+Spinonyx-icon;Spinonyx;Legendary;Class CunningClass Fierce;4200;1000;124;0%;5%;1.7
+SpinosaurusProfile;Spinosaurus;Rare;Class Fierce;3600;1000;122;0%;5%;1.0
+Spinosaurus Aegyptiacus;Spinosaurus Aegyptiacus;Omega;Class Fierce;1300;520;106;0%;0;3.6
+SpinosaurusGEN2Profile;Spinosaurus GEN 2;Epic;Class Fierce;3900;1000;122;0%;5%;1.2
+SpinotahraptorProfile;Spinotahraptor;Epic;Class CunningClass Fierce;2850;1400;126;0%;5%;1.0
+SpinotasuchusProfile;Spinotasuchus;Legendary;Class Fierce;3750;1000;129;0%;5%;1.2
+Stegosub;Stegoceras;Epic;Class CunningClass Fierce;3600;1250;115;0%;15%;2.6
+StegoceratopsProfile;Stegoceratops;Epic;Class Resilient;3600;1000;107;25%;5%;1.0
+StegodeusProfile;Stegodeus;Legendary;Class Resilient;5100;1000;107;30%;5%;1.2
+StegosaurusProfile;Stegosaurus;Common;Class Resilient;3900;1000;116;20%;5%;1.0
+Stegosaurus ungulatus;Stegosaurus ungulatus;Omega;Class Resilient;1180;350;100;10%;5%;3.3
+StegourosCard;Stegouros;Omega;Class Wildcard;4250;1450;114;15%;20%;3.0
+Struthiomimus;Struthiomimus;Epic;Class Cunning;3300;1300;126;0%;15%;2.6
+StygidaryxProfile;Stygidaryx;Unique;Class FierceClass Resilient;4050;1150;128;0%;5%;1.6
+StygimolochProfile;Stygimoloch;Epic;Class Resilient;3150;1500;129;0%;5%;1.2
+StygimolochGEN2Profile;Stygimoloch GEN 2;Common;Class Resilient;3000;1300;128;0%;5%;1.2
+Card fsr;Styracosaurus Lux;Unique;Class FierceClass Resilient;4800;1500;121;15%;10%;2.23
+SuchomimusProfile;Suchomimus;Common;Class Fierce;3900;1000;104;0%;5%;1.0
+SuchotatorProfile;Suchotator;Rare;Class Wildcard;4500;1300;116;0%;20%;1.2
+TanycolagreusProfile;Tanycolagreus;Common;Class Wildcard;2850;1560;130;0%;5%;1.0
+Tapejara;Tapejara;Rare;Class Cunning;3650;1350;124;0%;25%;3.6
+Tarbognathus;Tarbognathus;Legendary;Class CunningClass Fierce;3000;1550;123;0%;30%;2.15
+TarbosaurusProfile;Tarbosaurus;Common;Class Fierce;4500;1700;104;0%;40%;1.0
+TenontorexProfile;Tenontorex;Unique;Class Wildcard;4500;1900;109;0%;20%;1.5
+TenontosaurusProfile;Tenontosaurus;Rare;Class Resilient;4500;1000;114;0%;5%;1.0
+TestacornibusProfile;Testacornibus;Unique;Class Resilient;4200;1100;128;45%;5%;1.13
+985aafe0410f4a48be0368e6390c135d43416453;Therizinosaurus;Rare;Class Cunning;3300;1300;130;0%;5%;2.16
+ThoradolosaurProfile;Thoradolosaur;Unique;Class Fierce;4500;1750;105;0%;30%;1.5
+Thylaconyx;Thylaconyx;Legendary;Class Fierce;4800;1250;122;0%;25%;2.15
+Thylacotator;Thylacotator;Epic;Class Wildcard;4500;1000;117;0%;40%;1.9
+Thylos Intrepidus Profile;Thylos Intrepidus;Unique;Class Fierce;3900;1400;120;0%;40%;2.18
+Dinosaur Raptor;Tiger;Epic;Class FierceClass Resilient;3600;1350;119;15%;5%;2.19
+TitanoboaProfile;Titanoboa;Epic;Class Resilient;4500;1300;115;0%;20%;1.12
+TitanoboaGEN2Profile;Titanoboa GEN 2;Rare;Class Resilient;4350;1000;115;0%;20%;1.12
+Dino-card-Wiki;Titanosaurus;Epic;Class Resilient;?;?;?;?;?;3.14
+ToroCard;Toro;Omega;Class Wildcard;1320;395;107;5%;5%;3.0
+TragodistisProfile;Tragodistis;Legendary;Class Resilient;4500;1000;105;40%;5%;1.0
+TriceratopsProfile;Triceratops;Rare;Class Resilient;3300;1000;111;20%;5%;1.0
+TriceratopsGEN2Profile;Triceratops GEN 2;Common;Class Resilient;3750;1000;110;10%;5%;1.0
+Troodoboa;Troodoboa;Unique;Class Wildcard;3900;1200;117;0%;10%;2.13
+TroodonProfile;Troodon;Epic;Class Cunning;3000;1200;130;0%;5%;2.2
+TrykosaurusProfile;Trykosaurus;Unique;Class FierceClass Resilient;4350;1600;108;35%;20%;1.0
+TryostronixProfile;Tryostronix;Legendary;Class Fierce;4200;1400;125;0%;20%;1.2
+Blue Sky;Tsintamoth;Legendary;Class Wildcard;4950;1250;113;10%;5%;2.8
+Tsintaosaurus;Tsintaosaurus;Epic;Class Wildcard;4350;1250;108;0%;5%;2.6
+TuojiangosaurusProfile;Tuojiangosaurus;Rare;Class Resilient;3600;1000;105;0%;5%;1.0
+TuoramolochProfile;Tuoramoloch;Unique;Class Resilient;4200;1500;126;0%;5%;1.3
+TupandactylusProfile;Tupandactylus;Rare;Class FierceClass Resilient;3000;950;126;0%;5%;1.4
+TyrannolophosaurProfile;Tyrannolophosaur;Legendary;Class CunningClass Fierce;4200;1650;108;0%;30%;1.5
+Rexy 2;Tyrannometrodon;Unique;Class Fierce;4950;1900;110;0%;35%;2.19
+Tyrannosaur Buck;Tyrannosaur Buck;Legendary;Class Wildcard;5100;1700;104;10%;25%;3.6
+Tyrannosaur Doe;Tyrannosaur Doe;Legendary;Class CunningClass Fierce;4500;1750;121;0%;20%;3.6
+TyrannosaurusRexProfile;Tyrannosaurus rex;Epic;Class Fierce;4500;1900;102;0%;30%;1.0
+TyrannosaurusRexGEN2Profile;Tyrannosaurus rex GEN 2;Rare;Class Fierce;4350;1800;104;0%;20%;1.0
+UtahraptorProfile;Utahraptor;Rare;Class Cunning;2250;1400;128;0%;5%;1.0
+UtarinexProfile;Utarinex;Unique;Class Cunning;3600;1650;128;10%;25%;1.2
+UtasinoraptorProfile;Utasinoraptor;Legendary;Class Cunning;3000;1400;127;15%;5%;1.0
+Vectispinus;Vectispinus;Omega;Class FierceClass Resilient;975;550;99;10%;0%;3.3
+VelociraptorProfile;Velociraptor;Common;Class Cunning;1650;1550;132;0%;5%;1.0
+Velosrhacos;Velosrhacos;Epic;Class Cunning;2700;1400;130;0%;5%;2.2
+WoollyMammothProfile;Woolly Mammoth;Epic;Class Resilient;4200;1000;115;10%;5%;1.11
+WoollyRhinoProfile;Woolly Rhino;Epic;Class Resilient;4500;1500;108;10%;5%;1.11
+WuerhosaurusProfile;Wuerhosaurus;Rare;Class Resilient;4500;1000;115;25%;5%;1.0
+Yutyrannus;Yutyrannus;Omega;Class Fierce;1420;500;110;0%;6%;3.2
+Yuxisaurus;Yuxisaurus;Omega;Class FierceClass Resilient;1500;410;105;10%;10%;3.0.30 
