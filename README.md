@@ -54,7 +54,7 @@ Egy modern, sötét témájú ASP.NET MVC webalkalmazás, amely a *Jurassic Worl
 1. Klónozd a repository-t:
 
 ```
-git clone https://github.com/USERNAME/jwa-data-hub.git
+git clone https://github.com/nmmiklos/jwalive_webview_mvc_datahub.git
 ```
 
 2. Nyisd meg Visual Studio-ban
