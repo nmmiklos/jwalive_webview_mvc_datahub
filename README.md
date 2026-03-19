@@ -59,7 +59,11 @@ git clone https://github.com/nmmiklos/jwalive_webview_mvc_datahub.git
 
 2. Nyisd meg Visual Studio-ban
 
-3. Futtasd a projektet:
+3. Hozz létre egy "jw" nevű adatbázist a kezelődben (xampp - phpmyadmin-hoz terveztem)
+
+4. Importáld a wwwroot/data/creatures.sql fájlt az adatbázisba
+
+5. Futtasd a projektet:
 
 ```
 Ctrl + F5
